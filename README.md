@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ASHW2004
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI
 
 <!---
 ASHW2004/ASHW2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
